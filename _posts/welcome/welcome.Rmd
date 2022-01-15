@@ -20,6 +20,10 @@ knitr::opts_chunk$set(echo = FALSE)
 # Learn more about creating blogs with Distill at:
 # https://rstudio.github.io/distill/blog.html
 
+# https://www.andreashandel.com/posts/distill-github-website/
+
+# https://blog.curso-r.com/posts/2021-08-16-distill_ghpages/
+
 ```
 
 
