@@ -15,5 +15,22 @@
     "preview": {},
     "last_modified": "2022-01-15T07:31:32-03:00",
     "input_file": {}
+  },
+  {
+    "path": "posts/2022-01-15-datatable-pandas/",
+    "title": "data.table pandas",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2022-01-15",
+    "categories": [],
+    "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\nhttps://atrebas.github.io/post/2020-06-14-datatable-pandas/\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-01-15T07:54:07-03:00",
+    "input_file": "datatable-pandas.knit.md"
   }
 ]
